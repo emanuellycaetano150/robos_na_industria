@@ -1,4 +1,43 @@
 body{
-    background-color: aqua;
+    background-color: rgb(34, 150, 150);
     color: white;
+    text-align: center;
+    font-size: 1.2rem;
+
+}
+nav a{ 
+    margin-right: 8px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+   transition: ease;
+  transition-duration: 1.0s;
+   background-color: rgb(48, 48, 117);
+   padding: 0px 4px;
+   border-radius: 4px;
+}
+a:active{
+    transition: ease;
+  transition-duration: 1.0s;
+   background-color: rgb(48, 48, 117);
+   padding: 0px 4px;
+   border-radius: 4px;
+}
+.foto-robo img{
+    width: 340px;
+    height: 340px;
+    border-radius: 16px;
+}
+.video-robo iframe{
+    width: 340px;
+    height: 340px;
+    border-radius: 16px;
+}
+.mapa-robo iframe{
+    width: 340px;
+    height: 340px;
+    border-radius: 16px;
 }
