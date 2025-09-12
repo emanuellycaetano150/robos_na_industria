@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(34, 150, 150);
+    background-color:rgb(34, 150, 150);
     color: white;
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1.2rem; 
 
 }
 nav a{ 
